@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berkturkcan24.github.io/readme-cpz2n2/sitemap.xml
